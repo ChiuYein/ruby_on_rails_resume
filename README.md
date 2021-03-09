@@ -1,24 +1,18 @@
-# README
+# Ruby On Rails Resume Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The purpose of this project is to build Ruby on Rails application that shows background information like a resume.
 
-Things you may want to cover:
+It consist of 3 sections which are:
 
-* Ruby version
+* Education
 
-* System dependencies
+* Experience
 
-* Configuration
+* Skills information
 
-* Database creation
+It is only for a single user resume.
 
-* Database initialization
+Improvement: 
 
-* How to run the test suite
+* Section can be breakdown into different file to make it more easy to manage.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
